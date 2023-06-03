@@ -1,4 +1,4 @@
-<img src="https://svgshare.com/i/tof.svg">
+<img src="https://svgshare.com/i/tpp.svg">
 
 <h3 align="center">ＷＨＯ ＡＲＥ ＷＥ？</h3>
 <p align="center">
@@ -24,4 +24,4 @@
   </sub>
 </p>
 
-<img src="https://svgshare.com/i/tn2.svg">
+<img src="https://svgshare.com/i/tpz.svg">
