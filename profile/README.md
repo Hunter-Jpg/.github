@@ -4,6 +4,8 @@
 <p align="center">
   <sub>
   We are a small team of developers based in Norway 🇳🇴
+<br>
+    Our primary focus lies in projects that are web-based.
      </sub>
 </p>
 <br>
